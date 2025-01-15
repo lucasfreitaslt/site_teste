@@ -7,10 +7,6 @@
     <title>blog pessoal</title>
 </head>
 <body>
-
-    <h1>ola mundo!</h1>
-    
-    <p></p>
-
+<h1> ola mundo </h1>
 </body>
 </html>
